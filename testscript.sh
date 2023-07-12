@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "this script is from github"
+echo "this script is from Tshibos"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "You must be the change you wish to see in the world - GANDHI"
