@@ -3,6 +3,6 @@ echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "This was added"
-echo "This was added"
+echo "This was aded"
 echo "This was added"
 echo "This was added"
