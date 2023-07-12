@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "this script is from Tshibos"
-NUMBER=$(($NUMBERONE + $NUMBERTWO))
+NUMBER=$(($NUMBERONE - $NUMBERTWO))
 echo "$NUMBER"
 echo "You must be the change you wish to see in the world - GANDHI"
 echo "Love has been mistaken for possession and attachment. Become loving, so you can love all."
