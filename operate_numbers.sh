@@ -24,7 +24,7 @@ function division() {
   fi
 }
 
-# Function to perform modulo
+# Function to perform modulo.
 function modulo() {
   if [ $2 -ne 0 ]; then
     result=$(($1 % $2))
