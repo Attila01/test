@@ -10,7 +10,7 @@ NUMBER4=$(($NUMBERONE / $NUMBERTWO))
 echo "$NUMBER4"
 NUMBER5=$(($NUMBERONE / $NUMBERTWO))
 echo "$NUMBER5"
-# Script to install jenkins 
+# Script to install jenkins.
 sudo yum update
 java -version
 #Jenkins is a free and open-source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery.
