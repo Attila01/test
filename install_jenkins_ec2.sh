@@ -1,3 +1,6 @@
+#!/bin/bash
+
+
 # Script to install jenkins.
 sudo yum update
 java -version
